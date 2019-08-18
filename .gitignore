@@ -1,3 +1,6 @@
+*.o
+*.a
+
 # Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
