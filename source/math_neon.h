@@ -166,7 +166,7 @@ expression: d = m0 * m1
 */
 void		matmul4_c(float m0[16], float m1[16], float d[16]);
 void		matmul4_neon(float m0[16], float m1[16], float d[16]);
-\
+
 /* 
 function:	matvec2
 arguments:  m 2x2 matrix, v 2 element vector
