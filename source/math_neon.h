@@ -84,6 +84,10 @@ THE SOFTWARE.
 #define modf_neon		modf_neon_hfp
 #define sqrtf_neon		sqrtf_neon_hfp
 #define invsqrtf_neon	invsqrtf_neon_hfp
+
+#define dot2_neon		dot2_neon_hfp
+#define dot3_neon		dot3_neon_hfp
+#define dot4_neon		dot4_neon_hfp
 #else
 #define sinf_neon		sinf_neon_sfp
 #define cosf_neon		cosf_neon_sfp
